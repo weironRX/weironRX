@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/581360/weironrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="581360" height="30" width="40" /></a>
+<a href="https://ru.stackoverflow.com/users/581360/weironrx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="581360" height="30" width="40" /></a>
 <a href="https://kaggle.com/weiron_rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="weiron_rx" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/weiron_rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="weiron_rx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/weiron_rx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="weiron_rx" height="30" width="40" /></a>
